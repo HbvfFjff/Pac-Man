@@ -1,0 +1,6 @@
+{
+  "name": "Pac-Man",
+  "description": "Classic retro Pac-Man game with responsive touch/button controls, high score tracking, sound effects, and multiple ghost personalities built with Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
